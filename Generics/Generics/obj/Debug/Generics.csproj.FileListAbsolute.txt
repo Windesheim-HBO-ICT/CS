@@ -1,0 +1,7 @@
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\bin\Debug\Generics.exe
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\bin\Debug\Generics.pdb
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.exe
+C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.pdb
