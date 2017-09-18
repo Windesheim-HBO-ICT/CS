@@ -5,3 +5,5 @@ C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\GenericsDemos.
 C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\GenericsDemos.csproj.CoreCompileInputs.cache
 C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.exe
 C:\Work\Git\C# programming\Lecture 3a\Generics\Generics\obj\Debug\Generics.pdb
+C:\Work\Git\C# programming\CS1\Generics\Generics\obj\Debug\GenericsDemos.csprojResolveAssemblyReference.cache
+C:\Work\Git\C# programming\CS1\Generics\Generics\obj\Debug\GenericsDemos.csproj.CoreCompileInputs.cache
