@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Generics
+namespace Empty
 {
     class MyCollection
     {
@@ -14,7 +14,9 @@ namespace Generics
         public void Add(int n)
         {
             if (cursor < 10)
+            {
                 array[cursor++] = n;
+            }
         }
 
         public static void Demo()

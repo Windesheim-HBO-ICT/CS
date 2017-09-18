@@ -4,24 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Generics
+namespace Empty
 {
     class ConstraintDemo
     {
-
         public static void Demo()
         {
-            int maxInt = Maximum<int>(33, 6, 89);
+            int maxInt = Maximum(33, 6, 89);
             Console.WriteLine($"Max {maxInt}");
 
-            string maxString = Maximum<string>("charlie", "alpha", "bravo");
-            Console.WriteLine($"Max {maxString}");
         }
 
-        public static T Maximum<T>(T first, T second, T third)
-            where T : IComparable<T>
+        public static int Maximum(int first, int second, int third)
         {
-            T max = first;
+            int max = first;
             if (second.CompareTo(first) > 0)
             {
                 max = second;

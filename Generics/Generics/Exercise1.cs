@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Generics
+namespace Empty
 {
     class Exercise1
     {
@@ -21,10 +21,11 @@ namespace Generics
             Swap(ref x, ref y);
             Console.WriteLine($"x: {x} y: {y}");
 
-            char a = 'h', b ='I';
+            char a = 'h', b = 'I';
             Swap(ref a, ref b);
             Console.WriteLine($"a: {a} b: {b}");
 
         }
+
     }
 }

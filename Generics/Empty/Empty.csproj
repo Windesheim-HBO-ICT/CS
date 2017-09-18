@@ -42,7 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayPrintDemo.cs" />
+    <Compile Include="ConstraintDemo.cs" />
+    <Compile Include="Exercise1.cs" />
+    <Compile Include="Exercise2.cs" />
     <Compile Include="MyCollection.cs" />
+    <Compile Include="MyGenericCollection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
