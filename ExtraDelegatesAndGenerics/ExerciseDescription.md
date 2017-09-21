@@ -14,4 +14,4 @@ In `Main` we create the necessary objects and link the actions to the event hand
 
 The result should like the image below:
 
-![](https://https://github.com/Windesheim-HBO-ICT/CS1/new/master/ExtraDelegatesAndGenerics/screenshot.png)
+![screenshot](https://github.com/Windesheim-HBO-ICT/CS1/blob/master/ExtraDelegatesAndGenerics/screenshot.png "screenshot")
